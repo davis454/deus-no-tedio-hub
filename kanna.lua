@@ -31,7 +31,7 @@ Tab1:AddDiscordInvite({
   Name = "BUSCO ADMINISTRADORES ÚTEIS PARA ME AJUDAR",
   Description = "SERVIDOR SIMPLES AINDA",
   Logo = "rbxassetid://91327549612406", -- ← novo logo aqui
-  Invite = "https://discord.gg/kCuhNq3C"
+  Invite = "https://discord.gg/NuyrXhcJ"
 })
 
 local Section = Tab1:AddSection({"EM BREVE"})
